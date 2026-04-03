@@ -1,0 +1,16 @@
+name: AutoPickupXP
+version: 1.0
+main: com.draconicvelum.AutoPickupXP.Main
+api-version: 1.21
+author: Draconic Velum
+
+commands:
+  autopickupxp:
+    description: Toggle AutoPickup XP
+    usage: /autopickupxp toggle
+
+permissions:
+  autopickupxp.use:
+    default: true
+  autopickupxp.reload:
+    default: op

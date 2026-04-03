@@ -1,0 +1,7 @@
+enabled: true
+
+# Delay before intercepting XP orbs (ticks)
+delay-ticks: 2
+
+# If true, gives XP to nearest player when no tracked player is found
+use-nearest-player: true
